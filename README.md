@@ -1,56 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-###
+<p align="left"> 
+  👋 Olá! Me chamo Italo Chiaradia, sou estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e atualmente estou estagiando na área de desenvolvimento de software. Tenho me dedicado ao aperfeiçoamento constante das minhas habilidades, conciliando os estudos com a prática no ambiente profissional.
+  
+  No momento, minha stack principal é Angular no frontend e Spring no backend, com foco no desenvolvimento de aplicações web modernas e escaláveis.
+</p>
 
-<p align="left">Junior Web Developer with hands-on experience in personal and freelance projects using HTML, CSS, JavaScript, ReactJS, NodeJS, and more. Motivated to gain experience in a professional environment and contribute to creative and efficient web solutions. Looking for opportunities to grow, apply my skills, and collaborate with teams on challenging projects.</p>
+<p align="left">
+  🦄 Linguagens: Java · TypeScript · PHP · Python · HTML · CSS
+</p>
 
-###
+<p align="left">
+  💼 Ferramentas: Angular · Spring Boot · Vue.js · Laravel · PostgreSQL · Git
+</p>
 
-<h2 align="left">About me</h2>
+<p align="left">
+  💌 Se quiser conversar sobre tecnologia, trocar ideias ou iniciar alguma colaboração, será um prazer!: ⤵️
+</p>
 
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning ReactJS & NodeJS</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/italo-chiaradia-92b653228" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:italocoelho050704@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<p align="left">
+  <a href="mailto:italocoelho050704@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/italo-chiaradia-92b653228" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
